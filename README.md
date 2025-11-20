@@ -73,6 +73,16 @@ pip install faker psycopg2 pymongo pandas matplotlib psutil
 
 ## Como Executar
 1. Configure as credenciais de acesso nos arquivos `db_postgres.py` e `db_mongo.py` certificando de ter as tabelas e coleções criados em ambos os bancos.
+```
+conn = psycopg2.connect(
+    dbname="Ecommerce",
+    user="postgres",
+    password="SUA_SENHA_AQUI",
+    host="localhost",
+    port="5432"
+)
+
+```
 2. Execute o benchmark:
 ```
 python main_benchmark.py
