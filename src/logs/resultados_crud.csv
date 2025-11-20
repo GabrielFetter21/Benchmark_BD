@@ -1,0 +1,5 @@
+operacao,tempo_pg_ms,tempo_mongo_ms,throughput_pg_ops_s,throughput_mongo_ops_s,cpu_media_%,memoria_media_MB,tam_pg_MB,tam_mongo_MB
+INSERT,131.8,7.31,7587.41,136755.92,0.0,7267.31,8.23,0.05
+SELECT,1.47,18.87,678886.61,52983.5,0.0,7197.34,8.23,0.04
+UPDATE,4.42,6.57,226080.66,152304.37,0.0,7209.46,8.25,0.04
+DELETE,0.64,0.74,1571092.01,1357588.88,0.0,7209.39,8.25,0.04

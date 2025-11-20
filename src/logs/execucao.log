@@ -1,0 +1,656 @@
+2025-11-10 12:21:25 [INFO] - ======================================================================
+2025-11-10 12:21:25 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-10 12:21:25 [INFO] - ======================================================================
+2025-11-10 12:21:25 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-10 12:21:25 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-10 12:21:25 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-10 12:21:25 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 12:21:25 [INFO] - Gerando dataset simulado...
+2025-11-10 12:21:25 [INFO] - 
+ Executando operação INSERT...
+2025-11-10 12:21:25 [INFO] - Dados inseridos no PostgreSQL em 78.9 ms.
+2025-11-10 12:21:25 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-10 12:21:26 [INFO] - Operação INSERT concluída.
+2025-11-10 12:21:26 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-10 12:21:26 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-10 12:21:26 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 12:21:26 [INFO] - Sincronização concluída (0.01s).
+2025-11-10 12:21:26 [INFO] - 
+ Executando operação SELECT...
+2025-11-10 12:21:26 [INFO] - Operação SELECT concluída.
+2025-11-10 12:21:26 [INFO] - 
+ Executando operação UPDATE...
+2025-11-10 12:21:27 [INFO] - Operação UPDATE concluída.
+2025-11-10 12:21:27 [INFO] - 
+ Executando operação DELETE...
+2025-11-10 12:21:28 [INFO] - Operação DELETE concluída.
+2025-11-10 12:21:28 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-10 12:21:28 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-10 12:21:28 [INFO] - ======================================================================
+2025-11-10 12:21:28 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-10 12:21:28 [INFO] - ======================================================================
+2025-11-10 13:24:10 [INFO] - ======================================================================
+2025-11-10 13:24:10 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-10 13:24:10 [INFO] - ======================================================================
+2025-11-10 13:24:10 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-10 13:24:10 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-10 13:24:10 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-10 13:24:10 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:24:10 [INFO] - Gerando dataset simulado...
+2025-11-10 13:24:10 [INFO] - 
+ Executando operação INSERT...
+2025-11-10 13:24:10 [INFO] - Dados inseridos no PostgreSQL em 74.14 ms.
+2025-11-10 13:24:10 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-10 13:24:11 [INFO] - Operação INSERT concluída.
+2025-11-10 13:24:11 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-10 13:24:11 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-10 13:24:11 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:24:11 [INFO] - Sincronização concluída (0.01s).
+2025-11-10 13:24:11 [INFO] - 
+ Executando operação SELECT...
+2025-11-10 13:24:11 [INFO] - Operação SELECT concluída.
+2025-11-10 13:24:11 [INFO] - 
+ Executando operação UPDATE...
+2025-11-10 13:24:12 [INFO] - Operação UPDATE concluída.
+2025-11-10 13:24:12 [INFO] - 
+ Executando operação DELETE...
+2025-11-10 13:24:13 [INFO] - Operação DELETE concluída.
+2025-11-10 13:24:13 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-10 13:24:13 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-10 13:24:13 [INFO] - ======================================================================
+2025-11-10 13:24:13 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-10 13:24:13 [INFO] - ======================================================================
+2025-11-10 13:26:53 [INFO] - ======================================================================
+2025-11-10 13:26:53 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-10 13:26:53 [INFO] - ======================================================================
+2025-11-10 13:26:53 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-10 13:26:53 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-10 13:26:53 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-10 13:26:53 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:26:53 [INFO] - Gerando dataset simulado...
+2025-11-10 13:26:53 [INFO] - 
+ Executando operação INSERT...
+2025-11-10 13:26:53 [INFO] - Dados inseridos no PostgreSQL em 49.73 ms.
+2025-11-10 13:26:53 [INFO] - Dados inseridos no MongoDB em 0.0s.
+2025-11-10 13:26:54 [INFO] - Operação INSERT concluída.
+2025-11-10 13:26:54 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-10 13:26:54 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-10 13:26:54 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:26:54 [INFO] - Sincronização concluída (0.01s).
+2025-11-10 13:26:54 [INFO] - 
+ Executando operação SELECT...
+2025-11-10 13:26:55 [INFO] - Operação SELECT concluída.
+2025-11-10 13:26:55 [INFO] - 
+ Executando operação UPDATE...
+2025-11-10 13:26:55 [INFO] - Operação UPDATE concluída.
+2025-11-10 13:26:55 [INFO] - 
+ Executando operação DELETE...
+2025-11-10 13:26:56 [INFO] - Operação DELETE concluída.
+2025-11-10 13:26:56 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-10 13:26:56 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-10 13:26:56 [INFO] - ======================================================================
+2025-11-10 13:26:56 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-10 13:26:56 [INFO] - ======================================================================
+2025-11-10 13:33:44 [INFO] - ======================================================================
+2025-11-10 13:33:44 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-10 13:33:44 [INFO] - ======================================================================
+2025-11-10 13:33:44 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-10 13:33:44 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-10 13:33:44 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-10 13:33:44 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:33:44 [INFO] - Gerando dataset simulado...
+2025-11-10 13:33:44 [INFO] - 
+ Executando operação INSERT...
+2025-11-10 13:33:44 [INFO] - Dados inseridos no PostgreSQL em 52.2 ms.
+2025-11-10 13:33:44 [INFO] - Dados inseridos no MongoDB em 0.0s.
+2025-11-10 13:33:45 [INFO] - Operação INSERT concluída.
+2025-11-10 13:33:45 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-10 13:33:45 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-10 13:33:45 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:33:45 [INFO] - Sincronização concluída (0.01s).
+2025-11-10 13:33:45 [INFO] - 
+ Executando operação SELECT...
+2025-11-10 13:33:46 [INFO] - Operação SELECT concluída.
+2025-11-10 13:33:46 [INFO] - 
+ Executando operação UPDATE...
+2025-11-10 13:33:46 [INFO] - Operação UPDATE concluída.
+2025-11-10 13:33:46 [INFO] - 
+ Executando operação DELETE...
+2025-11-10 13:33:47 [INFO] - Operação DELETE concluída.
+2025-11-10 13:33:47 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-10 13:33:47 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-10 13:33:47 [INFO] - ======================================================================
+2025-11-10 13:33:47 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-10 13:33:47 [INFO] - ======================================================================
+2025-11-10 13:34:32 [INFO] - ======================================================================
+2025-11-10 13:34:32 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-10 13:34:32 [INFO] - ======================================================================
+2025-11-10 13:34:32 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-10 13:34:32 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-10 13:34:32 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-10 13:34:32 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:34:32 [INFO] - Gerando dataset simulado...
+2025-11-10 13:34:32 [INFO] - 
+ Executando operação INSERT...
+2025-11-10 13:34:32 [INFO] - Dados inseridos no PostgreSQL em 45.94 ms.
+2025-11-10 13:34:32 [INFO] - Dados inseridos no MongoDB em 0.0s.
+2025-11-10 13:34:32 [INFO] - Operação INSERT concluída.
+2025-11-10 13:34:32 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-10 13:34:32 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-10 13:34:32 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:34:32 [INFO] - Sincronização concluída (0.01s).
+2025-11-10 13:34:32 [INFO] - 
+ Executando operação SELECT...
+2025-11-10 13:34:33 [INFO] - Operação SELECT concluída.
+2025-11-10 13:34:33 [INFO] - 
+ Executando operação UPDATE...
+2025-11-10 13:34:33 [INFO] - Operação UPDATE concluída.
+2025-11-10 13:34:33 [INFO] - 
+ Executando operação DELETE...
+2025-11-10 13:34:34 [INFO] - Operação DELETE concluída.
+2025-11-10 13:34:34 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-10 13:34:35 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-10 13:34:35 [INFO] - ======================================================================
+2025-11-10 13:34:35 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-10 13:34:35 [INFO] - ======================================================================
+2025-11-10 13:36:14 [INFO] - ======================================================================
+2025-11-10 13:36:14 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-10 13:36:14 [INFO] - ======================================================================
+2025-11-10 13:36:14 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-10 13:36:14 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-10 13:36:14 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-10 13:36:14 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:36:14 [INFO] - Gerando dataset simulado...
+2025-11-10 13:36:14 [INFO] - 
+ Executando operação INSERT...
+2025-11-10 13:36:14 [INFO] - Dados inseridos no PostgreSQL em 51.63 ms.
+2025-11-10 13:36:14 [INFO] - Dados inseridos no MongoDB em 0.0s.
+2025-11-10 13:36:15 [INFO] - Operação INSERT concluída.
+2025-11-10 13:36:15 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-10 13:36:15 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-10 13:36:15 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-10 13:36:15 [INFO] - Sincronização concluída (0.01s).
+2025-11-10 13:36:15 [INFO] - 
+ Executando operação SELECT...
+2025-11-10 13:36:15 [INFO] - Operação SELECT concluída.
+2025-11-10 13:36:15 [INFO] - 
+ Executando operação UPDATE...
+2025-11-10 13:36:16 [INFO] - Operação UPDATE concluída.
+2025-11-10 13:36:16 [INFO] - 
+ Executando operação DELETE...
+2025-11-10 13:36:16 [INFO] - Operação DELETE concluída.
+2025-11-10 13:36:16 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-10 13:36:17 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-10 13:36:17 [INFO] - ======================================================================
+2025-11-10 13:36:17 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-10 13:36:17 [INFO] - ======================================================================
+2025-11-16 12:11:53 [INFO] - ======================================================================
+2025-11-16 12:11:53 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-16 12:11:53 [INFO] - ======================================================================
+2025-11-16 12:11:53 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-16 12:11:53 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-16 12:11:53 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-16 12:11:53 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:11:53 [INFO] - Gerando dataset simulado...
+2025-11-16 12:11:53 [INFO] - 
+ Executando operação INSERT...
+2025-11-16 12:11:53 [ERROR] - Erro ao inserir dados no PostgreSQL: ERRO:  duplicar valor da chave viola a restrição de unicidade "clientes_email_key"
+DETAIL:  Chave (email)=(pborges@example.org) já existe.
+Traceback (most recent call last):
+  File "C:\Users\gabri\PycharmProjects\Data_Gerator\.venv\db_postgres.py", line 66, in inserir_dados_postgres
+    cursor.execute("""
+    ~~~~~~~~~~~~~~^^^^
+                INSERT INTO clientes (nome, cpf, email, endereco, telefone, data_cadastro)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                VALUES (%s, %s, %s, %s, %s, %s);
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            """, (cli["nome"], cli["cpf"], cli["email"], cli["endereco"], cli["telefone"],
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                  cli["data_cadastro"]))
+                  ^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: ERRO:  duplicar valor da chave viola a restrição de unicidade "clientes_email_key"
+DETAIL:  Chave (email)=(pborges@example.org) já existe.
+
+2025-11-16 12:11:53 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-16 12:11:54 [INFO] - Operação INSERT concluída.
+2025-11-16 12:11:54 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-16 12:11:54 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-16 12:11:54 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:11:54 [ERROR] - Erro ao sincronizar PostgreSQL → MongoDB: documents must be a non-empty list
+Traceback (most recent call last):
+  File "C:\Users\gabri\PycharmProjects\Data_Gerator\.venv\db_mongo.py", line 95, in sincronizar_para_mongo
+    db_mongo.categorias.insert_many(categorias_docs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\gabri\PycharmProjects\data_gerator\.venv\Lib\site-packages\pymongo\_csot.py", line 125, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\gabri\PycharmProjects\data_gerator\.venv\Lib\site-packages\pymongo\synchronous\collection.py", line 959, in insert_many
+    raise TypeError("documents must be a non-empty list")
+TypeError: documents must be a non-empty list
+2025-11-16 12:11:54 [INFO] - 
+ Executando operação SELECT...
+2025-11-16 12:11:55 [INFO] - Operação SELECT concluída.
+2025-11-16 12:11:55 [INFO] - 
+ Executando operação UPDATE...
+2025-11-16 12:11:55 [INFO] - Operação UPDATE concluída.
+2025-11-16 12:11:55 [INFO] - 
+ Executando operação DELETE...
+2025-11-16 12:11:56 [INFO] - Operação DELETE concluída.
+2025-11-16 12:11:56 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-16 12:11:57 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-16 12:11:57 [INFO] - ======================================================================
+2025-11-16 12:11:57 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-16 12:11:57 [INFO] - ======================================================================
+2025-11-16 12:12:47 [INFO] - ======================================================================
+2025-11-16 12:12:47 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-16 12:12:47 [INFO] - ======================================================================
+2025-11-16 12:12:47 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-16 12:12:47 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-16 12:12:47 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-16 12:12:47 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:12:47 [INFO] - Gerando dataset simulado...
+2025-11-16 12:12:47 [INFO] - 
+ Executando operação INSERT...
+2025-11-16 12:12:48 [INFO] - Dados inseridos no PostgreSQL em 152.18 ms.
+2025-11-16 12:12:48 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-16 12:12:48 [INFO] - Operação INSERT concluída.
+2025-11-16 12:12:48 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-16 12:12:48 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-16 12:12:48 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:12:48 [INFO] - Sincronização concluída (0.03s).
+2025-11-16 12:12:48 [INFO] - 
+ Executando operação SELECT...
+2025-11-16 12:12:49 [INFO] - Operação SELECT concluída.
+2025-11-16 12:12:49 [INFO] - 
+ Executando operação UPDATE...
+2025-11-16 12:12:50 [INFO] - Operação UPDATE concluída.
+2025-11-16 12:12:50 [INFO] - 
+ Executando operação DELETE...
+2025-11-16 12:12:50 [INFO] - Operação DELETE concluída.
+2025-11-16 12:12:50 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-16 12:12:51 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-16 12:12:51 [INFO] - ======================================================================
+2025-11-16 12:12:51 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-16 12:12:51 [INFO] - ======================================================================
+2025-11-16 12:13:30 [INFO] - ======================================================================
+2025-11-16 12:13:30 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-16 12:13:30 [INFO] - ======================================================================
+2025-11-16 12:13:30 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-16 12:13:30 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-16 12:13:30 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-16 12:13:30 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:13:30 [INFO] - Gerando dataset simulado...
+2025-11-16 12:13:30 [INFO] - 
+ Executando operação INSERT...
+2025-11-16 12:13:31 [INFO] - Dados inseridos no PostgreSQL em 121.22 ms.
+2025-11-16 12:13:31 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-16 12:13:31 [INFO] - Operação INSERT concluída.
+2025-11-16 12:13:31 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-16 12:13:31 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-16 12:13:31 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:13:31 [INFO] - Sincronização concluída (0.01s).
+2025-11-16 12:13:31 [INFO] - 
+ Executando operação SELECT...
+2025-11-16 12:13:32 [INFO] - Operação SELECT concluída.
+2025-11-16 12:13:32 [INFO] - 
+ Executando operação UPDATE...
+2025-11-16 12:13:33 [INFO] - Operação UPDATE concluída.
+2025-11-16 12:13:33 [INFO] - 
+ Executando operação DELETE...
+2025-11-16 12:13:33 [INFO] - Operação DELETE concluída.
+2025-11-16 12:13:33 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-16 12:13:34 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-16 12:13:34 [INFO] - ======================================================================
+2025-11-16 12:13:34 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-16 12:13:34 [INFO] - ======================================================================
+2025-11-16 12:14:28 [INFO] - ======================================================================
+2025-11-16 12:14:28 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-16 12:14:28 [INFO] - ======================================================================
+2025-11-16 12:14:29 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-16 12:14:29 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-16 12:14:29 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-16 12:14:29 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:14:29 [INFO] - Gerando dataset simulado...
+2025-11-16 12:14:29 [INFO] - 
+ Executando operação INSERT...
+2025-11-16 12:14:29 [INFO] - Dados inseridos no PostgreSQL em 128.12 ms.
+2025-11-16 12:14:29 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-16 12:14:29 [INFO] - Operação INSERT concluída.
+2025-11-16 12:14:29 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-16 12:14:29 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-16 12:14:29 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:14:29 [INFO] - Sincronização concluída (0.02s).
+2025-11-16 12:14:29 [INFO] - 
+ Executando operação SELECT...
+2025-11-16 12:14:30 [INFO] - Operação SELECT concluída.
+2025-11-16 12:14:30 [INFO] - 
+ Executando operação UPDATE...
+2025-11-16 12:14:31 [INFO] - Operação UPDATE concluída.
+2025-11-16 12:14:31 [INFO] - 
+ Executando operação DELETE...
+2025-11-16 12:14:32 [INFO] - Operação DELETE concluída.
+2025-11-16 12:14:32 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-16 12:14:32 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-16 12:14:32 [INFO] - ======================================================================
+2025-11-16 12:14:32 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-16 12:14:32 [INFO] - ======================================================================
+2025-11-16 12:19:51 [INFO] - ======================================================================
+2025-11-16 12:19:51 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-16 12:19:51 [INFO] - ======================================================================
+2025-11-16 12:19:51 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-16 12:19:51 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-16 12:19:51 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-16 12:19:51 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:19:51 [INFO] - Gerando dataset simulado...
+2025-11-16 12:19:52 [INFO] - 
+ Executando operação INSERT...
+2025-11-16 12:19:52 [INFO] - Dados inseridos no PostgreSQL em 128.88 ms.
+2025-11-16 12:19:52 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-16 12:19:52 [INFO] - Operação INSERT concluída.
+2025-11-16 12:19:52 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-16 12:19:52 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-16 12:19:52 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:19:52 [INFO] - Sincronização concluída (0.02s).
+2025-11-16 12:19:52 [INFO] - 
+ Executando operação SELECT...
+2025-11-16 12:19:53 [INFO] - Operação SELECT concluída.
+2025-11-16 12:19:53 [INFO] - 
+ Executando operação UPDATE...
+2025-11-16 12:19:54 [INFO] - Operação UPDATE concluída.
+2025-11-16 12:19:54 [INFO] - 
+ Executando operação DELETE...
+2025-11-16 12:19:54 [INFO] - Operação DELETE concluída.
+2025-11-16 12:19:54 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-16 12:19:55 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-16 12:19:55 [INFO] - ======================================================================
+2025-11-16 12:19:55 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-16 12:19:55 [INFO] - ======================================================================
+2025-11-16 12:21:23 [INFO] - ======================================================================
+2025-11-16 12:21:23 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-16 12:21:23 [INFO] - ======================================================================
+2025-11-16 12:21:24 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-16 12:21:24 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-16 12:21:24 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-16 12:21:24 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:21:24 [INFO] - Gerando dataset simulado...
+2025-11-16 12:21:24 [INFO] - 
+ Executando operação INSERT...
+2025-11-16 12:21:24 [INFO] - Dados inseridos no PostgreSQL em 115.56 ms.
+2025-11-16 12:21:24 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-16 12:21:24 [INFO] - Operação INSERT concluída.
+2025-11-16 12:21:24 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-16 12:21:24 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-16 12:21:24 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 12:21:24 [INFO] - Sincronização concluída (0.02s).
+2025-11-16 12:21:24 [INFO] - 
+ Executando operação SELECT...
+2025-11-16 12:21:25 [INFO] - Operação SELECT concluída.
+2025-11-16 12:21:25 [INFO] - 
+ Executando operação UPDATE...
+2025-11-16 12:21:26 [INFO] - Operação UPDATE concluída.
+2025-11-16 12:21:26 [INFO] - 
+ Executando operação DELETE...
+2025-11-16 12:21:27 [INFO] - Operação DELETE concluída.
+2025-11-16 12:21:27 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-16 12:21:27 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-16 12:21:27 [INFO] - ======================================================================
+2025-11-16 12:21:27 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-16 12:21:27 [INFO] - ======================================================================
+2025-11-16 18:28:23 [INFO] - ======================================================================
+2025-11-16 18:28:23 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-16 18:28:23 [INFO] - ======================================================================
+2025-11-16 18:28:23 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-16 18:28:23 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-16 18:28:23 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-16 18:28:23 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 18:28:23 [INFO] - Gerando dataset simulado...
+2025-11-16 18:28:23 [INFO] - 
+ Executando operação INSERT...
+2025-11-16 18:28:23 [INFO] - Dados inseridos no PostgreSQL em 72.79 ms.
+2025-11-16 18:28:23 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-16 18:28:24 [INFO] - Operação INSERT concluída.
+2025-11-16 18:28:24 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-16 18:28:24 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-16 18:28:24 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-16 18:28:24 [INFO] - Sincronização concluída (0.01s).
+2025-11-16 18:28:24 [INFO] - 
+ Executando operação SELECT...
+2025-11-16 18:28:25 [INFO] - Operação SELECT concluída.
+2025-11-16 18:28:25 [INFO] - 
+ Executando operação UPDATE...
+2025-11-16 18:28:25 [INFO] - Operação UPDATE concluída.
+2025-11-16 18:28:25 [INFO] - 
+ Executando operação DELETE...
+2025-11-16 18:28:26 [INFO] - Operação DELETE concluída.
+2025-11-16 18:28:26 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-16 18:28:26 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-16 18:28:26 [INFO] - ======================================================================
+2025-11-16 18:28:26 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-16 18:28:26 [INFO] - ======================================================================
+2025-11-20 18:35:22 [INFO] - ======================================================================
+2025-11-20 18:35:22 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:35:22 [INFO] - ======================================================================
+2025-11-20 18:35:22 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:35:22 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-20 18:35:23 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:35:23 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:35:23 [INFO] - Gerando dataset simulado...
+2025-11-20 18:35:23 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:35:23 [INFO] - Dados inseridos no PostgreSQL em 157.83 ms.
+2025-11-20 18:35:23 [INFO] - Dados inseridos no MongoDB em 0.02s.
+2025-11-20 18:35:24 [INFO] - Operação INSERT concluída.
+2025-11-20 18:35:24 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:35:24 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:35:24 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:35:24 [INFO] - Sincronização concluída (0.02s).
+2025-11-20 18:35:24 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:35:24 [INFO] - Operação SELECT concluída.
+2025-11-20 18:35:24 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:35:25 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:35:25 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:35:26 [INFO] - Operação DELETE concluída.
+2025-11-20 18:35:26 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-20 18:35:27 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-20 18:35:27 [INFO] - ======================================================================
+2025-11-20 18:35:27 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-20 18:35:27 [INFO] - ======================================================================
+2025-11-20 18:38:31 [INFO] - ======================================================================
+2025-11-20 18:38:31 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:38:31 [INFO] - ======================================================================
+2025-11-20 18:38:31 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:38:31 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-20 18:38:31 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:38:32 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:38:32 [INFO] - Gerando dataset simulado...
+2025-11-20 18:38:32 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:38:32 [INFO] - Dados inseridos no PostgreSQL em 120.81 ms.
+2025-11-20 18:38:32 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-20 18:38:32 [INFO] - Operação INSERT concluída.
+2025-11-20 18:38:32 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:38:32 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:38:32 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:38:32 [INFO] - Sincronização concluída (0.03s).
+2025-11-20 18:38:32 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:38:33 [INFO] - Operação SELECT concluída.
+2025-11-20 18:38:33 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:38:34 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:38:34 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:38:34 [INFO] - Operação DELETE concluída.
+2025-11-20 18:38:57 [INFO] - ======================================================================
+2025-11-20 18:38:57 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:38:57 [INFO] - ======================================================================
+2025-11-20 18:38:57 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:38:57 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-20 18:38:57 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:38:57 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:38:57 [INFO] - Gerando dataset simulado...
+2025-11-20 18:38:57 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:38:57 [INFO] - Dados inseridos no PostgreSQL em 122.39 ms.
+2025-11-20 18:38:57 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-20 18:38:57 [INFO] - Operação INSERT concluída.
+2025-11-20 18:38:57 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:38:57 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:38:57 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:38:58 [INFO] - Sincronização concluída (0.02s).
+2025-11-20 18:38:58 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:38:58 [INFO] - Operação SELECT concluída.
+2025-11-20 18:38:58 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:38:59 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:38:59 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:39:00 [INFO] - Operação DELETE concluída.
+2025-11-20 18:40:35 [INFO] - ======================================================================
+2025-11-20 18:40:35 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:40:35 [INFO] - ======================================================================
+2025-11-20 18:40:35 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:40:35 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-20 18:40:35 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:40:35 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:40:35 [INFO] - Gerando dataset simulado...
+2025-11-20 18:40:35 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:40:35 [INFO] - Dados inseridos no PostgreSQL em 119.18 ms.
+2025-11-20 18:40:35 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-20 18:40:36 [INFO] - Operação INSERT concluída.
+2025-11-20 18:40:36 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:40:36 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:40:36 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:40:36 [INFO] - Sincronização concluída (0.03s).
+2025-11-20 18:40:36 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:40:37 [INFO] - Operação SELECT concluída.
+2025-11-20 18:40:37 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:40:37 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:40:37 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:40:38 [INFO] - Operação DELETE concluída.
+2025-11-20 18:41:46 [INFO] - ======================================================================
+2025-11-20 18:41:46 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:41:46 [INFO] - ======================================================================
+2025-11-20 18:41:46 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:41:46 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-20 18:41:46 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:41:46 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:41:46 [INFO] - Gerando dataset simulado...
+2025-11-20 18:41:46 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:41:47 [INFO] - Dados inseridos no PostgreSQL em 128.03 ms.
+2025-11-20 18:41:47 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-20 18:41:47 [INFO] - Operação INSERT concluída.
+2025-11-20 18:41:47 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:41:47 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:41:47 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:41:47 [INFO] - Sincronização concluída (0.01s).
+2025-11-20 18:41:47 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:41:48 [INFO] - Operação SELECT concluída.
+2025-11-20 18:41:48 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:41:49 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:41:49 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:41:49 [INFO] - Operação DELETE concluída.
+2025-11-20 18:41:49 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-20 18:41:50 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-20 18:41:50 [INFO] - ======================================================================
+2025-11-20 18:41:50 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-20 18:41:50 [INFO] - ======================================================================
+2025-11-20 18:47:27 [INFO] - ======================================================================
+2025-11-20 18:47:27 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:47:27 [INFO] - ======================================================================
+2025-11-20 18:47:27 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:47:27 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-20 18:47:27 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:47:27 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:47:27 [INFO] - Gerando dataset simulado...
+2025-11-20 18:47:27 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:47:27 [INFO] - Dados inseridos no PostgreSQL em 149.12 ms.
+2025-11-20 18:47:27 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-20 18:47:28 [INFO] - Operação INSERT concluída.
+2025-11-20 18:47:28 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:47:28 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:47:28 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:47:28 [INFO] - Sincronização concluída (0.02s).
+2025-11-20 18:47:28 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:47:28 [INFO] - Operação SELECT concluída.
+2025-11-20 18:47:28 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:47:29 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:47:29 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:47:30 [INFO] - Operação DELETE concluída.
+2025-11-20 18:49:17 [INFO] - ======================================================================
+2025-11-20 18:49:17 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:49:17 [INFO] - ======================================================================
+2025-11-20 18:49:17 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:49:17 [INFO] - Conectado ao MongoDB (0.0s).
+2025-11-20 18:49:17 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:49:17 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:49:17 [INFO] - Gerando dataset simulado...
+2025-11-20 18:49:17 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:49:17 [INFO] - Dados inseridos no PostgreSQL em 129.83 ms.
+2025-11-20 18:49:17 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-20 18:49:18 [INFO] - Operação INSERT concluída.
+2025-11-20 18:49:18 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:49:18 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:49:18 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:49:18 [INFO] - Sincronização concluída (0.01s).
+2025-11-20 18:49:18 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:49:19 [INFO] - Operação SELECT concluída.
+2025-11-20 18:49:19 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:49:19 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:49:19 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:49:20 [INFO] - Operação DELETE concluída.
+2025-11-20 18:49:20 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-20 18:49:21 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-20 18:49:21 [INFO] - ======================================================================
+2025-11-20 18:49:21 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-20 18:49:21 [INFO] - ======================================================================
+2025-11-20 18:58:47 [INFO] - ======================================================================
+2025-11-20 18:58:47 [INFO] - INICIANDO BENCHMARK COMPLETO - PostgreSQL x MongoDB
+2025-11-20 18:58:47 [INFO] - ======================================================================
+2025-11-20 18:58:47 [INFO] - Conexão PostgreSQL estabelecida com sucesso!
+2025-11-20 18:58:47 [INFO] - Conectado ao MongoDB (0.01s).
+2025-11-20 18:58:47 [INFO] - Tabelas do PostgreSQL limpas com sucesso!
+2025-11-20 18:58:47 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:58:47 [INFO] - Gerando dataset simulado...
+2025-11-20 18:58:47 [INFO] - 
+ Executando operação INSERT...
+2025-11-20 18:58:47 [INFO] - Dados inseridos no PostgreSQL em 131.8 ms.
+2025-11-20 18:58:47 [INFO] - Dados inseridos no MongoDB em 0.01s.
+2025-11-20 18:58:48 [INFO] - Operação INSERT concluída.
+2025-11-20 18:58:48 [INFO] - Sincronizando dados PostgreSQL → MongoDB...
+2025-11-20 18:58:48 [INFO] - Iniciando sincronização PostgreSQL → MongoDB...
+2025-11-20 18:58:48 [INFO] - Coleções do MongoDB limpas com sucesso!
+2025-11-20 18:58:48 [INFO] - Sincronização concluída (0.01s).
+2025-11-20 18:58:48 [INFO] - 
+ Executando operação SELECT...
+2025-11-20 18:58:49 [INFO] - Operação SELECT concluída.
+2025-11-20 18:58:49 [INFO] - 
+ Executando operação UPDATE...
+2025-11-20 18:58:49 [INFO] - Operação UPDATE concluída.
+2025-11-20 18:58:49 [INFO] - 
+ Executando operação DELETE...
+2025-11-20 18:58:50 [INFO] - Operação DELETE concluída.
+2025-11-20 18:58:50 [INFO] - Resultados salvos em logs/resultados_crud.csv
+2025-11-20 18:58:51 [INFO] - Gráficos de desempenho gerados com sucesso em /logs/graficos/
+2025-11-20 18:58:51 [INFO] - ======================================================================
+2025-11-20 18:58:51 [INFO] - BENCHMARK FINALIZADO COM SUCESSO!
+2025-11-20 18:58:51 [INFO] - ======================================================================
