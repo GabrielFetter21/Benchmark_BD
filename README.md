@@ -81,7 +81,6 @@ conn = psycopg2.connect(
     host="localhost",
     port="5432"
 )
-
 ```
 2. Execute o benchmark:
 ```
