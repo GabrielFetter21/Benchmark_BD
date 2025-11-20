@@ -1,6 +1,6 @@
 # Benchmark de Performance: PostgreSQL x MongoDB
 
-Este projeto implementa um **benchmark completo de desempenho** comparando dois sistemas de banco de dados — **PostgreSQL** e **MongoDB** — executando operações CRUD, coleta de métricas, sincronização entre bancos, monitoramento de recursos e geração de gráficos comparativos.
+Este projeto implementa um **benchmark completo de desempenho** comparando dois sistemas de banco de dados ( **PostgreSQL** e **MongoDB** ) executando operações CRUD, coleta de métricas, sincronização entre bancos, monitoramento de recursos e geração de gráficos comparativos.
 
 Ele foi desenvolvido como parte de um estudo sobre diferenças entre bancos de dados relacionais e NoSQL, analisando **tempo de execução**, **throughput**, **uso de CPU**, **memória** e **tamanho das bases** após cada operação.
 
@@ -29,7 +29,7 @@ Ele foi desenvolvido como parte de um estudo sobre diferenças entre bancos de d
 
 ---
 
-## Visão Geral dos Módulos
+## Visão Geral
 
 ### `data_generator.py`
 Gera automaticamente dados realistas para preencher ambas as bases de dados, utilizando Faker.
