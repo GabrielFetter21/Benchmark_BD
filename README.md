@@ -29,7 +29,7 @@ Ele foi desenvolvido como parte de um estudo sobre diferenças entre bancos de d
 
 ---
 
-## Visão Geral dos Módulos
+## Visão Geral dos módulos
 
 ### `data_generator.py`
 Gera automaticamente dados realistas para preencher ambas as bases de dados, utilizando Faker.
